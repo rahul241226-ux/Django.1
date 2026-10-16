@@ -1,0 +1,34 @@
+1:
+
+to create new app = python manage.py startapp invoice
+
+to run app= python manage.py runserver
+
+to activate visual environment= venv\Scripts\activate
+
+
+
+
+✅
+2:
+
+URLS: 
+
+if any one typing or clicking any url the we can access that url,
+so it can match right page.
+
+--> method of mentioning urls: #path('address/'=('admin,home/'), view_function, name='nickname'),
+
+
+
+
+VIEWS:
+have two types--
+
+function based: admin.show_invoices( it is the function )
+class based: 
+
+
+
+
+class based views:
